@@ -1,4 +1,6 @@
 # 4.Execution_of_NetworkCommands
+## NAME:KATHIRESAN K
+## REG NO:212223110021
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
@@ -29,7 +31,8 @@ This commands includes
 ## Output
 
 ## NETSTAT
-![Screenshot 2024-10-19 205718](https://github.com/user-attachments/assets/319707aa-6826-4624-b064-16fe84a5606a)
+![file](https://github.com/user-attachments/assets/61c32c3b-d6a1-496a-9269-6407bc917790)
+
 
 ## IPCONFIG
 ![Screenshot 2024-10-19 210228](https://github.com/user-attachments/assets/2699d53c-d133-4a80-b6d6-f9ee9931ed3d)
@@ -56,8 +59,7 @@ This commands includes
 ![Screenshot 2024-10-19 210701](https://github.com/user-attachments/assets/98cd8d15-23a4-42da-93a1-4cb0c3714028)
 
 ## SYSTEM INFO
-
-![Screenshot 2024-10-19 210813](https://github.com/user-attachments/assets/9563669c-9e93-469d-a129-13ab5cc9b924)
+![file (1)](https://github.com/user-attachments/assets/a1b74b71-8579-4b45-9ef6-bd924319c582)
 
 ## Result
 Thus Execution of Network commands Performed 
